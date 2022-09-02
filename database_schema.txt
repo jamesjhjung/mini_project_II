@@ -1,0 +1,3 @@
+CREATE TABLE sqlite_sequence(name,seq);
+CREATE TABLE fsq_table (id INTEGER PRIMARY KEY AUTOINCREMENT,name TEXT NOT NULL,type TEXT,address TEXT);
+CREATE TABLE yelp_table (id INTEGER PRIMARY KEY AUTOINCREMENT,name TEXT NOT NULL,type TEXT,address TEXT,rating DECIMAL);
