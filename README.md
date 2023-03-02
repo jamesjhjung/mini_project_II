@@ -18,4 +18,4 @@ Based on the number of POIs given by each API, Yelp was found to have better cov
 As I had not been completely confident in dealing with JSON files and DataFrames, it took quite some time to figure out how to correctly normalize and parse through the data. Additionally, for similar reasons, I struggled with creating the database and inserting tables into it.
 
 ## Future Goals
-I think in the future I could give myself more time to get comfortable with many of the skills required to complete the project beforehand, rather than trying to figure out how to tackle a certain step without understanding what I'm supposed to do.
+In the future I could give myself more time to get comfortable with many of the skills required to complete the project beforehand, rather than trying to figure out how to tackle a certain step without understanding what I'm supposed to do.
